@@ -11,7 +11,14 @@ Soy un desarrollador al que le apasiona crear soluciones eficientes y escalables
 
 Este es un proyecto que he desarrollado y actualmente está disponible en este repositorio.
 Tecnologías utilizadas: Xamarin
-Funcionalidades principales: Conectarse a la base de datos y realizar las siguientes acciones: 🔹Comprar entradas 🔹Registrarte 🔹Iniciar sesión 🔹Consultar la cartelera 🔹Notificar una incidencia 🔹Borrar la cuenta 🔹Ver la sala de cine 
+Funcionalidades principales: Conectarse a la base de datos y realizar las siguientes acciones: 
+🔹Comprar entradas 
+🔹Registrarte 
+🔹Iniciar sesión 
+🔹Consultar la cartelera 
+🔹Notificar una incidencia 
+🔹Borrar la cuenta 
+🔹Ver la sala de cine 
 
 💡 Próximos Proyectos
 Estoy trabajando en añadir más proyectos que reflejen mis habilidades. 
