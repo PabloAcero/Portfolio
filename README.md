@@ -10,11 +10,13 @@ Soy un desarrollador al que le apasiona crear soluciones eficientes y escalables
 📱 Aplicación para un cine
 
 Este es un proyecto que he desarrollado y actualmente está disponible en este repositorio.
+Tecnologías utilizadas: Xamarin
+Funcionalidades principales: Conectarse a la base de datos y realizar las siguientes acciones: 🔹Comprar entradas 🔹Registrarte 🔹Iniciar sesión 🔹Consultar la cartelera 🔹Notificar una incidencia 🔹Borrar la cuenta 🔹Ver la sala de cine 
 
-🔹 Tecnologías utilizadas: Xamarin 🔹 Funcionalidades principales: Conectarse a la base de datos y realizar las siguientes acciones: 🔹Comprar entradas 🔹Registrarte 🔹Iniciar sesión 🔹Consultar la cartelera 🔹Notificar una incidencia 🔹Borrar la cuenta 🔹Ver la sala de cine 💡 Próximos Proyectos
+💡 Próximos Proyectos
+Estoy trabajando en añadir más proyectos que reflejen mis habilidades. 
 
-Estoy trabajando en añadir más proyectos que reflejen mis habilidades. 📫 Contacto
-
+📫 Contacto
 Si tienes alguna oportunidad o simplemente quieres conectar, no dudes en escribirme: 📧 Email: pabloacero007@gmail.com
 
 ¡Gracias por visitar mi portafolio! 😃
