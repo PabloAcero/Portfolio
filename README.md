@@ -1,4 +1,4 @@
-# 📌 Mi Portafolio
+# 📌 Mi Portfolio
 
 ¡Hola! 👋 Bienvenido a mi portafolio de GitHub.  
 Actualmente, me encuentro en la búsqueda de nuevas oportunidades laborales en el desarrollo de software.  
